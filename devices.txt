@@ -1,0 +1,4 @@
+BD016|Anaesthesia Workstation|C001|Perseus A500|OT|OT-02|2024-09-07|2026-09-07|Service Due
+BD017|Patient Monitor|C002|Vista 120|ICU|ICU-03|2025-02-15|2027-02-15|Available
+BD018|Infusion Pump|C002|Agilia SP MC|Ward 1|W1-05|2024-06-20|2026-06-20|Under Maintenance
+BD043|MRI machine|455|122|3|2|2016-01-03|2025-11-03|Working
